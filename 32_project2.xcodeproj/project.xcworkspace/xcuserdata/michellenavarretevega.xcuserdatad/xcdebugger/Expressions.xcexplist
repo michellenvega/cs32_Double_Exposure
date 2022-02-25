@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Map::insert(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;, double const&amp;):Map.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "n_head">
+            </PersistentString>
+            <PersistentString
+               value = "p != n_tail">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:testMap.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Map::swap(Map&amp;):Map.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Map::~Map():Map.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "p">
+            </PersistentString>
+            <PersistentString
+               value = "temp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "testone(int):testMap.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "!m.contains(k)">
+            </PersistentString>
+            <PersistentString
+               value = " m.size()">
+            </PersistentString>
+            <PersistentString
+               value = "m.size() == SPEC_MAX">
+            </PersistentString>
+            <PersistentString
+               value = "!m.insert(k, DUMMYV)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Map::Map(Map const&amp;):Map.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
